@@ -1,0 +1,17 @@
+{
+  "name": "TTK Server - Система управления ТТК",
+  "short_name": "TTK Server",
+  "description": "Профессиональная система для создания, хранения и управления технологическими картами",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#2563eb",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍽️</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
